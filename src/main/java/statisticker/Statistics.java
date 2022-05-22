@@ -31,6 +31,7 @@ public class Statistics
 		
 		Stats(){
 		}
+		
 		@Override
 		public String toString() {
 			return "Stats [average=" + average + ", min=" + min + ", max=" + max + "]";
